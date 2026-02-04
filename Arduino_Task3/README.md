@@ -25,7 +25,7 @@ The code written to perform the following operation is listed below along with t
 There are two fuctions used in this program which are:
 - void setup() function = Used for initialization
 - void loop() function = Used for repeating a set of instructions
-Terms related to Digital Pins:
+- Terms related to Digital Pins:
 - HIGH represents 5 V wrt ground.
 - LOW represents 0 V .
 - pinMode(component's_name,Act either as input or output) = This expression is used to specify the pin as either an input or an output.It is used in the setup() function.
@@ -53,3 +53,10 @@ A variable is declared as buttonPin which stores the pin number where the push b
   Now ,using the digitalWrite command to make changes in the LED.
   - Creating a blinking pattern using delay.
   - 1st blink (fast blink) :- LED ON AND OFF for 100 ms .
+  - 2nd blink (Long On) : - Stays ON for 1000 ms and OFF for 200 ms .
+  - 3rd blink (Long Off) :-Stays ON for 200 ms and OFF for 1000 ms .
+ - TOTAL DELAY TIME = 2.6 seconds.
+ - Returns the message on the Serial Monitor as "ON".
+ - In the else block : -
+   - The LED remains OFF during this time as the logical state is changed to LOW using digitalWrite() command.
+   - The Serial Monitor displays "OFF" on the screen.
