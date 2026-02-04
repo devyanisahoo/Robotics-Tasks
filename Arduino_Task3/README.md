@@ -1,9 +1,11 @@
 # ARDUINO TASK 3
+
+
 ## OBJECTIVE :-
-TO DESIGN AND IMPLEMENT A CIRCUIT THAT USES A PUSH BUTTON TO TURN AN LED ON AND OFF, AND TO CONTROL THE LED BLINKING SPEED BY VARYING THE DELAY IN THE PROGRAM.
+### TO DESIGN AND IMPLEMENT A CIRCUIT THAT USES A PUSH BUTTON TO TURN AN LED ON AND OFF, AND TO CONTROL THE LED BLINKING SPEED BY VARYING THE DELAY IN THE PROGRAM.
 ----
 ## SIMULATION USED:
-TINKERCAD
+### TINKERCAD
 ----
 ## CONTENT:
 - CODE
@@ -14,6 +16,8 @@ TINKERCAD
 The code written to perform the following operation is listed below along with the connections.
 
 <img width="1918" height="969" alt="Screenshot 2026-02-04 165948" src="https://github.com/user-attachments/assets/076cfa7f-92e2-428b-9bdc-335e9991e8cd" />
+
+
 ----
 
 ### BASICS OF ARDUINO USED
@@ -33,3 +37,5 @@ Terms related to Digital Pins:
 ----
 
 ### EXPLANATION OF THE PROGRAM
+
+
