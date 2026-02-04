@@ -47,9 +47,9 @@ A variable is declared as buttonPin which stores the pin number where the push b
   - BUTTON will act as an input device.
   Starting communication using the Serial.begin(9600) command.
 - Inside the loop() function :-
-  -I have used the condtion statement which is if....else statement .
-  -In the if block:-
-  -- The condition is that it reads the current logical state of the button and compares with HIGH .If the condition turns out to be true it procede withe block of code written under it.
+  - I have used the condtion statement which is if....else statement .
+  - In the if block:-
+    -  The condition is that it reads the current logical state of the button and compares with HIGH .If the condition turns out to be true it procede withe block of code written under it.
   Now ,using the digitalWrite command to make changes in the LED.
-  -- Creating a blinking pattern using delay.
-  -- 1st blink (fast blink) :- LED ON AND OFF for 100 ms .
+  - Creating a blinking pattern using delay.
+  - 1st blink (fast blink) :- LED ON AND OFF for 100 ms .
