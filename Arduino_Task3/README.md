@@ -60,3 +60,11 @@ A variable is declared as buttonPin which stores the pin number where the push b
  - In the else block : -
    - The LED remains OFF during this time as the logical state is changed to LOW using digitalWrite() command.
    - The Serial Monitor displays "OFF" on the screen.
+  
+### OUTPUT SCREEN RECORDING
+
+
+https://github.com/user-attachments/assets/3ba6afa0-add1-46ae-91e0-188a9891c3fc
+
+
+----
