@@ -1,7 +1,7 @@
 # Coding Domain Tasks
 ## CONTENT
 - ARDUINO TASK
-- REASEARCH
+- RESEARCH
 ## ARDUINO TASK
 The folder is attached to the repository.
 ## RESEARCH
